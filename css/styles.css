@@ -1,9 +1,60 @@
+
+/************************
+  CARD STYLES
+*************************/
+* {
+  box-sizing: border-box;
+}
+
+
 body {
-  font-family: 'Roboto', sans-serif;
+	font-family: 'Roboto', sans-serif;
+	  /*font-family: 'Roboto', sans-serif;*/
   color: #384047;
   background-color: #73C6A1;
   margin:0;
   padding:0;
+}
+
+.card-flex {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-content: space-around;
+	flex-wrap: wrap;
+	margin: 1em auto;
+}
+
+.card {
+	max-width: 30%;
+	min-width: 300px;
+	max-height: 400px;
+	background-color: #F44336;
+	padding-bottom: .3em;
+	color: white;
+	border-radius: 10px;
+	overflow: hidden;
+	box-shadow: 2px 2px 14px 0px rgba(0,0,0,0.75);
+	margin: 1em auto;
+}
+
+.card-images {
+	max-width: 100%;
+}
+
+.card header {
+	text-align: center;
+}
+
+.card h3 {
+	margin: .5em auto 0;
+	display: inline-block;
+	text-decoration: underline;
+}
+
+.card p {
+  margin: .5em;
+
 }
 
 .headwrapper {
