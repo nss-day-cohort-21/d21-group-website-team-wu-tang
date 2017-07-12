@@ -16,14 +16,14 @@ body {
 	justify-content: space-around;
 	align-content: space-around;
 	flex-wrap: wrap;
-	align-items: stretch;
+	/*align-items: stretch;*/
 	margin: auto;
 }
 
 .card {
-	/*height:100%;*/
 	max-width: 30%;
-	/*max-height: 30%;*/
+	min-width: 300px;
+	max-height: 400px;
 	background-color: #F44336;
 	padding-bottom: .3em;
 	color: white;

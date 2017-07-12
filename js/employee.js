@@ -20,7 +20,7 @@ let employeeList = [
 	{
 		image: "../imgs/MethodMan.jpg",
 		name: "Method Man",
-		description: "Clifford Smith (born April 1,[2] 1971),[3] better known by his stage name Method Man, is an American rapper, record producer, and actor. He is known as a member of the East Coast hip hop collective Wu-Tang Clan. He is also one half of the hip hop duo Method Man & Redman."
+		description: "Clifford Smith (born April 1, 1971), better known by his stage name Method Man, is an American rapper, record producer, and actor. He is known as a member of the East Coast hip hop collective Wu-Tang Clan. He is also one half of the hip hop duo Method Man & Redman."
 	},
 	{
 		image: "../imgs/gza.jpg",
@@ -30,17 +30,17 @@ let employeeList = [
 	{
 		image: "../imgs/Inspectah_Deck.jpg",
 		name: "Inspectah Deck",
-		description: "Jason Hunter (born July 6, 1970) better known by his stage name Inspectah Deck, is an American rapper, producer, and member of the groups Wu-Tang Clan and Czarface.[1] He has acquired critical praise for his intricate lyricism, and for his verses on many of the group's most revered songs.[2] "
+		description: "Jason Hunter (born July 6, 1970) better known by his stage name Inspectah Deck, is an American rapper, producer, and member of the groups Wu-Tang Clan and Czarface. He has acquired critical praise for his intricate lyricism, and for his verses on many of the group's most revered songs."
 	},
 	{
 		image: "../imgs/U-God.jpg",
 		name: "U-God",
-		description: "Lamont Jody Hawkins (born October 11, 1970), better known as U-God (short for Universal God), is an American rapper and member of the hip hop collective, Wu-Tang Clan. He has been with the group since its inception, and is known for having a deep, rhythmic flow that can alternate between being gruff or smooth"
+		description: "Lamont Jody Hawkins (born October 11, 1970), better known as U-God (short for Universal God), is an American rapper and member of the hip hop collective, Wu-Tang Clan. He is known for having a deep, rhythmic flow that can alternate between being gruff or smooth"
 	},
 	{
 		image: "../imgs/MK2.jpg",
 		name: "Masta Killa",
-		description: "Jamel Irief (born Elgin Turner; August 18, 1969), better known by his stage name Masta Killa, is an American rapper and member of the Wu-Tang Clan.[2] Though one of the lesser-known members of the group (he was featured on only one track on their 1993 debut album Enter the Wu-Tang (36 Chambers)), he has been prolific on Clan group albums and solo projects since the mid-1990s."
+		description: "Jamel Irief (born Elgin Turner; August 18, 1969), better known by his stage name Masta Killa, is an American rapper and member of the Wu-Tang Clan. Though one of the lesser-known members of the group, he has been prolific on Clan group albums and solo projects since the mid-1990s."
 	},
 	{
 		image: "../imgs/Cappadonna.jpg",
