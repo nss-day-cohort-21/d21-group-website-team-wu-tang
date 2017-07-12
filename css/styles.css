@@ -6,7 +6,6 @@
   box-sizing: border-box;
 }
 
-
 body {
 	font-family: 'Roboto', sans-serif;
 	  /*font-family: 'Roboto', sans-serif;*/
@@ -112,12 +111,42 @@ nav li a:active {
     font-weight: bold;
 }
 
+
 .Wutangphoto {
     width:100%;
     height:376px;
     margin: 0;
 }
 
+
+
+#awards1 {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+}
+
+#awards2 {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+}
+
+#awards3 {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+}
+
+#awards4 {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+}
+
+#awards {
+  margin: 20px auto;
+}
 .footer {
     text-align:center;
 }
