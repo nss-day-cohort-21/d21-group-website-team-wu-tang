@@ -3,7 +3,7 @@ console.log("test");
 //Array of objects
 let employeeList = [
 	{
-		image: "../imgs/Rza.jpg",
+		image: "../imgs/Rza-1.jpg",
 		name: "RZA",
 		description: "Robert Fitzgerald Diggs (born July 5, 1969), better known by his stage name RZA, is an American rapper, record producer, musician, actor, filmmaker and author. A prominent figure in hip hop, RZA is the de facto leader of the Wu-Tang Clan."
 	},
