@@ -141,10 +141,13 @@ nav li a:active {
 
 }
 
-
-
 footer {
+    font-family: 'Roboto', sans-serif;
     text-align:center;
+    color: whitesmoke;
+    background-color: tomato;
+    width: 100%;
+    height: 55px;
   }
 
 /* ****  Austin's Updates **** */ 
@@ -208,6 +211,37 @@ padding: 25px;
   height: 40px;
 }
 
+/************************
+      SLIDE SHOW
+*************************/
+
+.fullSlides {display:none}
+
+/* Slideshow container */
+.sShow-container {
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 2s;
+  animation-name: fade;
+  animation-duration: 2s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: 0} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: 0} 
+  to {opacity: 1}
+}
+
 
 /*Added for the AppForm */
 input[type=email]:valid {
@@ -224,3 +258,4 @@ input[type=url]:valid {
 input[type=url]:invalid {
     background:red;
             }   
+
