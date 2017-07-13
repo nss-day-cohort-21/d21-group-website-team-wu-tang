@@ -107,6 +107,12 @@ nav li a:hover {
 }
 
 nav li a:active {
+  background-color: tomato;
+  font-weight:bold;
+}
+
+/*<!-- tab stays in background color when on that html page -->*/
+.active {
     background-color: tomato;
     font-weight: bold;
 }
@@ -117,7 +123,7 @@ nav li a:active {
     height:376px;
     margin: 0;
 }
-<<<<<<< HEAD
+
 .awards {
   width: 300px;
   height: 300px;
@@ -201,3 +207,20 @@ padding: 25px;
   background-color: #384047;
   height: 40px;
 }
+
+
+/*Added for the AppForm */
+input[type=email]:valid {
+    background-color:green;
+}
+
+input[type=email]:invalid {
+    background:red;
+            }   
+input[type=url]:valid {
+    background-color:green;
+}
+
+input[type=url]:invalid {
+    background:red;
+            }   
