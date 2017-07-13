@@ -117,36 +117,25 @@ nav li a:active {
     height:376px;
     margin: 0;
 }
-
-
-
-#awards1 {
+.awards {
   width: 300px;
   height: 300px;
   border-radius: 100%;
+  display: block;
+  margin: 35px auto 0 auto;
+  border: 5px solid tomato;
 }
 
-#awards2 {
-  width: 300px;
-  height: 300px;
-  border-radius: 100%;
+.awardstext {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+
 }
 
-#awards3 {
-  width: 300px;
-  height: 300px;
-  border-radius: 100%;
-}
 
-#awards4 {
-  width: 300px;
-  height: 300px;
-  border-radius: 100%;
-}
 
-#awards {
-  margin: 20px auto;
-}
 .footer {
     text-align:center;
 }
