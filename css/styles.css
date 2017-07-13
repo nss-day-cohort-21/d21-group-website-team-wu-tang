@@ -332,7 +332,37 @@ input[type=url]:invalid {
   /*display: block;*/
 }
 
+
+/***********
+  App Form Styles
+************/
+.formStyle {
+    display: block;
+    background-color: #384047;
+    width: 100%;
+    margin: auto;
+    padding: 15px 20px;
+}
+form label {
+  margin-left: 50px
+  padding-right: 20px;
+  width: 200px;
+  color: whitesmoke;
+}
+
+form input {
+ border: 2px solid whitesmoke;
+
+}
+.formRadio{
+    color: whitesmoke;
+}
+.formBtn{
+  margin-left: 5px;
+}
+
 button a {
   text-decoration: none;
   color: black;
 }
+
