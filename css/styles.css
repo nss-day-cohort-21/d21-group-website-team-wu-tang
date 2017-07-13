@@ -118,7 +118,7 @@ nav li a:active {
     margin: 0;
 }
 
-#awards {
+.awards {
   width: 300px;
   height: 300px;
   border-radius: 100%;
@@ -127,11 +127,12 @@ nav li a:active {
   border: 5px solid tomato;
 }
 
-#awardstext {
+.awardstext {
   text-align: center;
   font-size: 18px;
   font-weight: bold;
   color: white;
+
 }
 
 
