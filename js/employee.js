@@ -77,6 +77,3 @@ for (let i = 0; i < employeeList.length; i++) {
 
 
 
-
-
-
