@@ -1,7 +1,5 @@
 
-/************************
-  CARD STYLES
-*************************/
+
 * {
   box-sizing: border-box;
 }
@@ -14,6 +12,10 @@ body {
   margin:0;
   padding:0;
 }
+
+/************************
+  CARD STYLES
+*************************/
 
 .card-flex {
 	display: flex;
@@ -37,6 +39,17 @@ body {
 	margin: 1em auto;
 }
 
+.card2 {
+  max-width: 30%;
+  background-color: #F44336;
+  padding-bottom: .3em;
+  color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 2px 2px 14px 0px rgba(0,0,0,0.75);
+  margin: 1em auto;
+}
+
 .card-images {
 	max-width: 100%;
 }
@@ -45,16 +58,43 @@ body {
 	text-align: center;
 }
 
+.card2 header {
+  text-align: center;
+}
+
 .card h3 {
 	margin: .5em auto 0;
 	display: inline-block;
 	text-decoration: underline;
 }
 
+.card2 h3 {
+  margin: .5em auto 0;
+  display: inline-block;
+  text-decoration: underline;
+}
+
+.card2 h4 {
+  color: #fff;
+  font-style: italic;
+  margin: .1em auto 0;
+  font-size: 1.3em;
+}
+
 .card p {
   margin: .5em;
 
 }
+
+.card2 p {
+  margin: .25em .5em .5em;
+
+}
+
+/************************
+  END CARD STYLES
+*************************/
+
 
 .headwrapper {
     background-color: tomato;
@@ -67,6 +107,23 @@ h1 {
   margin: 0 0 15px 0;
   text-align: center;
   color: white;
+}
+
+
+
+#product-diplay {
+  margin-top: 0;
+}
+
+#new-releases {
+  font-size: 2em;
+  margin: -.2em auto .5em;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  background-color: #384047;
+  color: whitesmoke;
+  padding: .3em 0;
 }
 
 .navwrapper {
@@ -117,7 +174,7 @@ nav li a:active {
     height:376px;
     margin: 0;
 }
-<<<<<<< HEAD
+
 .awards {
   width: 300px;
   height: 300px;
