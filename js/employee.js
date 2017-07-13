@@ -18,7 +18,7 @@ let employeeList = [
 		description: "Corey Woods (born January 12, 1970), better known by the stage name Raekwon the Chef, is an American rapper and a member of the Wu-Tang Clan. He released his solo debut, Only Built 4 Cuban Linx... in 1995, and has since recorded numerous solo albums."
 	},
 	{
-		image: "../imgs/emp-MethodMan.jpg",
+		image: "../imgs/emp-MK2.jpg",
 		name: "Method Man",
 		description: "Clifford Smith (born April 1, 1971), better known by his stage name Method Man, is an American rapper, record producer, and actor. He is known as a member of the East Coast hip hop collective Wu-Tang Clan. He is also one half of the hip hop duo Method Man & Redman."
 	},
@@ -38,7 +38,7 @@ let employeeList = [
 		description: "Lamont Jody Hawkins (born October 11, 1970), better known as U-God (short for Universal God), is an American rapper and member of the hip hop collective, Wu-Tang Clan. He is known for having a deep, rhythmic flow that can alternate between being gruff or smooth"
 	},
 	{
-		image: "../imgs/emp-MK2.jpg",
+		image: "../imgs/emp-mkillernew.jpg",
 		name: "Masta Killa",
 		description: "Jamel Irief (born Elgin Turner; August 18, 1969), better known by his stage name Masta Killa, is an American rapper and member of the Wu-Tang Clan. Though one of the lesser-known members of the group, he has been prolific on Clan group albums and solo projects since the mid-1990s."
 	},
