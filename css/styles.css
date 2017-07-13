@@ -137,10 +137,9 @@ nav li a:active {
 
 
 
-.footer {
+footer {
     text-align:center;
   }
-=======
 
 /* ****  Austin's Updates **** */ 
 
@@ -201,5 +200,4 @@ padding: 25px;
 .missionHead {
   background-color: #384047;
   height: 40px;
->>>>>>> Austin-w-CCS
 }
