@@ -57,7 +57,7 @@ for (let i = 0; i < productList.length; i++) {
 
 	let productCard = `<article class="card2"><img src="${productImage}" class="card-images">`;
 	productCard += `<header class="card-header"><h3>${productName}</h3><h4>${productTitle}</h4></header>`;
-	productCard += `<section class="card-paragraph"><p>${productDescription}</p></section>`;
+	productCard += `<section class="card-paragraph"><p>${productDescription}</p></section><br><br>`;
 	productCard += `<button class="jobsBtn"><a href="${productURL}" target="_blank">Buy</a></button>`
 	productCard += `</article>`;
 
