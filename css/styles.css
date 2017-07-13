@@ -117,7 +117,7 @@ nav li a:active {
     height:376px;
     margin: 0;
 }
-<<<<<<< HEAD
+
 .awards {
   width: 300px;
   height: 300px;
@@ -201,3 +201,14 @@ padding: 25px;
   background-color: #384047;
   height: 40px;
 }
+
+.jobsBtn {
+  font-size: 20px;
+  background-color: #73C6A1;
+  cursor: pointer;
+  border-radius: 5px;
+  float: right;
+  margin-bottom: 10px;
+  margin-right: 5px;
+}
+ 
